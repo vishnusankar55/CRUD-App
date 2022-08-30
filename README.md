@@ -1,1 +1,3 @@
-# CRUD-App
+# Project-CRUD
+
+Creating app for creating reading data. Using Python Flask framework and HTML,CSS...
